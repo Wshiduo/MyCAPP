@@ -15,6 +15,10 @@ public class MainActivity extends AppCompatActivity {
     int b = Toast.LENGTH_LONG;
 
     Toast.makeText(this, "aaa", Toast.LENGTH_LONG);
-    Toast.makeText(this, "bbb", Toast.LENGTH_LONG);
+    Toast.makeText(this, "aaa", Toast.LENGTH_LONG);
+    Toast.makeText(this, "aaa", Toast.LENGTH_LONG);
+    Toast.makeText(this, "aaa", Toast.LENGTH_LONG);
+    Toast.makeText(this, "aaa", Toast.LENGTH_LONG);
+    Toast.makeText(this, "eeeeeeeeeee", Toast.LENGTH_LONG);
   }
 }
