@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
     int lengthLong = Toast.LENGTH_LONG;
     int a = Toast.LENGTH_LONG;
     int b = Toast.LENGTH_LONG;
+    int c = Toast.LENGTH_LONG;
   }
 }
